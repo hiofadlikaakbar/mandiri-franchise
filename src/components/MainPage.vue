@@ -165,7 +165,7 @@
           <input
             v-model="nama"
             type="text"
-            placeholder="Nama lengkap"
+            placeholder="Nama lengkap.."
             class="w-full px-11 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-400 focus:outline-none"
           />
         </div>
@@ -178,7 +178,7 @@
           <input
             v-model="telepon"
             type="text"
-            placeholder="No HP"
+            placeholder="No HP.."
             class="w-full px-11 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-400 focus:outline-none"
           />
         </div>
@@ -191,7 +191,7 @@
           <input
             v-model="alamat"
             type="text"
-            placeholder="Masukkan Kelurahan"
+            placeholder="Kota & Kelurahan.."
             class="w-full px-11 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-400 focus:outline-none"
           />
         </div>
