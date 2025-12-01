@@ -31,3 +31,18 @@
 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
   background: #442dd7;
 } */
+@keyframes floatDown {
+  0% {
+    transform: translateY(-10px);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}
+
+.float-down {
+  animation: floatDown 2s ease-in-out infinite;
+}
