@@ -216,14 +216,13 @@
       </form>
     </div>
   </div>
-  <!-- FOOTER -->
+
   <footer class="bg-slate-950 py-5 text-center text-white">
     <p class="flex justify-center items-center gap-2">
-      <span>© 2025 Mandiri Supplier</span>
+      <span>“Hak Cipta © 2025 Mandiri Supplier</span>
     </p>
   </footer>
 
-  <!-- FLOATING WHATSAPP BUTTON -->
   <a
     href="https://wa.me/6285694419400"
     target="_blank"
