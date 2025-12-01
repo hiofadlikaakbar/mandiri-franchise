@@ -191,7 +191,7 @@
           <input
             v-model="alamat"
             type="text"
-            placeholder="Masukkan alamat / kelurahan"
+            placeholder="Masukkan Kelurahan"
             class="w-full px-11 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-400 focus:outline-none"
           />
         </div>
